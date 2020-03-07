@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crudwithphp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/crudwithphp/static/js/main.8255160f.chunk.js",
+    "main.js.map": "/crudwithphp/static/js/main.8255160f.chunk.js.map",
+    "runtime-main.js": "/crudwithphp/static/js/runtime-main.4b3ec80f.js",
+    "runtime-main.js.map": "/crudwithphp/static/js/runtime-main.4b3ec80f.js.map",
+    "static/js/2.619a2d84.chunk.js": "/crudwithphp/static/js/2.619a2d84.chunk.js",
+    "static/js/2.619a2d84.chunk.js.map": "/crudwithphp/static/js/2.619a2d84.chunk.js.map",
+    "index.html": "/crudwithphp/index.html",
+    "precache-manifest.9594ef3eee4f074538a48f6f4ab08040.js": "/crudwithphp/precache-manifest.9594ef3eee4f074538a48f6f4ab08040.js",
+    "service-worker.js": "/crudwithphp/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/crudwithphp/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b3ec80f.js",
+    "static/js/2.619a2d84.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8255160f.chunk.js"
+  ]
+}
